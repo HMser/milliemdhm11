@@ -350,7 +350,7 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-  await conn.sendTB2(m.chat, text.trim(), wm,`sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ `, `https://github.com/Neeraj-x0/Millie-MD`, `ᴏᴡɴᴇʀ`, `${_p}owner`, `ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs`, `${_p}? all`,m)
+  await conn.sendTB2(m.chat, text.trim(), wm,`sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ `, `https://rebrand.ly/hmser`, `ᴏᴡɴᴇʀ`, `${_p}owner`, `ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs`, `${_p}? all`,m)
  
 }catch(e){
   m.reply(`${e}`)
@@ -370,7 +370,7 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
 }
 handler.help = ['ᴍᴇɴᴜ']
 handler.tags = ['main']
-handler.command = /^(menu|help|list|\?)$/i
+handler.command = /^(menu|alive|help|list|\?)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
