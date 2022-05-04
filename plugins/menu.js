@@ -178,7 +178,7 @@ let aoa = `HI,
 ┃ ⎆  Oi ${ucapan()}
 ┃ ⎆  *NAME* : ${name}
 ┃ ⎆  *BOT*   : ᴍɪʟʟɪᴇ
-┃ ⎆  *OWNER* :  ɴᴇᴇʀᴀᴊ
+┃ ⎆  *OWNER* :  нм
 ┃ ⎆  *PREFIX* : ᴍᴜʟᴛɪ ᴘʀᴇғɪx 
 ┃ ⎆  *WEEK* : ${week},
 ┃ ⎆  *DATE* : ${date},
