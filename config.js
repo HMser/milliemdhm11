@@ -14,7 +14,7 @@ global.hxz = require('hxz-api')
 global.bochil = require('@bochilteam/scraper')
 global.baileys = require('@adiwajshing/baileys')
 
-global.owner = ["918113921898","919744196187","919778383987","919656459062","917736190104"] // Change owner number => src/premium.json
+global.owner = ["972522826442","972522826442","972522826442","972522826442","972522826442"] // Change owner number => src/premium.json
 global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium users
 
@@ -41,24 +41,24 @@ global.APIKeys = { // APIKey Here
 
 
 global.author = `💋 ᴍɪʟʟɪᴇ 💋`
-global.wm = `ᴍɪʟʟɪᴇ-ᴍᴅ`
+global.wm = `ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ ʜᴍ`
 global.ucpn = ''
 global.linkgc = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
-global.linkig = 'https://www.instagram.com/neer_j_  '
-global.linkyt = 'https://www.youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA'
-global.linkfb = 'https://fb.watch/aYv0jAffAO'
-global.git = 'https://github.com/Neeraj-x0'
-global.web1 = 'https://neeraj-x0.github.io/'
-global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
+global.linkig = 'https://rebrand.ly/hmser'
+global.linkyt = 'https://rebrand.ly/hmser'
+global.linkfb = 'https://rebrand.ly/hmser'
+global.git = 'https://rebrand.ly/hmser'
+global.web1 = 'https://rebrand.ly/hmser'
+global.url = 'https://rebrand.ly/hmser'
 
 
-global.packname = `ɴᴇᴇʀᴀᴊ-x0`
-global.name = 'ᴍɪʟʟɪᴇ-ᴍᴅ'
+global.packname = `ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ ʜᴍ`
+global.name = 'ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ ʜᴍ'
 global.deslink = ''
-global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'neer_j_'
-global.wait = '_Please Wait_'
-global.eror = '_Something went wrong please try again later_'
+global.titlink = 'ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ ʜᴍ'
+global.bodlink = 'ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ᴍᴇ ʜᴀᴘᴘʏ😊'
+global.wait = '_Ippo varum😊_'
+global.eror = '_Ippo kittunnilla, kurach kazhinj vaa_'
 global.dtu = 'BOT HELP GROUP'
 
 
