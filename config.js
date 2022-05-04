@@ -14,7 +14,7 @@ global.hxz = require('hxz-api')
 global.bochil = require('@bochilteam/scraper')
 global.baileys = require('@adiwajshing/baileys')
 
-global.owner = ["972522826442","972522826442","972522826442","972522826442","972522826442"] // Change owner number => src/premium.json
+global.owner = ["916235199845","972522826442","972522826442","972522826442","972522826442"] // Change owner number => src/premium.json
 global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium users
 
